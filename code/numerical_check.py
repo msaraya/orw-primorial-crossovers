@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Mohamed Hassan Ali Awaad Saraya
+
 """Reproduce the numerical consistency table in the paper.
 
 Requires: mpmath

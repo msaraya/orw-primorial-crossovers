@@ -1,4 +1,8 @@
-# ORW Primorial Crossovers
+i# ORW Primorial Crossovers
+
+[![Zenodo](https://img.shields.io/badge/Zenodo-record%2022132995-blue)](https://zenodo.org/records/22132995)
+[![Paper license: CC BY-NC-ND 4.0](https://img.shields.io/badge/Paper%20license-CC%20BY--NC--ND%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![Code license: MIT](https://img.shields.io/badge/Code%20license-MIT-green)](code/LICENSE)
 
 Repository for the paper:
 
@@ -30,4 +34,9 @@ The numerical computation is ancillary; none of the proofs depends on it.
 
 ## License
 
-The public paper is released on Zenodo under **CC BY-NC-ND 4.0**. See the Zenodo record for the authoritative deposit metadata and license terms.
+Licensing is split by material:
+
+- The **paper and repository documentation** are licensed under **CC BY-NC-ND 4.0**.
+- The **ancillary numerical-check code** under `code/` is licensed under the **MIT License**.
+
+See `LICENSE.md` and `code/LICENSE` for details. The Zenodo record remains the authoritative public deposit for the paper.
