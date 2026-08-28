@@ -1,6 +1,6 @@
 i# ORW Primorial Crossovers
 
-[![Zenodo](https://img.shields.io/badge/Zenodo-record%2022132995-blue)](https://zenodo.org/records/22132995)
+[![Zenodo](https://img.shields.io/badge/Zenodo-record%22132994-blue)](https://zenodo.org/records/22132994)
 [![Paper license: CC BY-NC-ND 4.0](https://img.shields.io/badge/Paper%20license-CC%20BY--NC--ND%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![Code license: MIT](https://img.shields.io/badge/Code%20license-MIT-green)](code/LICENSE)
 
@@ -10,11 +10,11 @@ Repository for the paper:
 
 Author: **Mohamed Hassan Ali Awaad Saraya**
 
-Public preprint (Zenodo, v1): https://zenodo.org/records/22132995
+Public preprint (Zenodo, v2): https://zenodo.org/records/22132995
 
 ## Contents
 
-- `paper/successive_primorial_transitions_JNT_submission.pdf` — public preprint / journal-submission manuscript.
+- `paper/successive_primorial_transitions_JNT.pdf` — public preprint / journal-submission manuscript.
 - `code/numerical_check.py` — ancillary numerical consistency check used to reproduce the numerical table in the manuscript.
 
 ## Scope
