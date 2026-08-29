@@ -1,0 +1,10 @@
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Scholar
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://msaraya.github.io/orw-primorial-crossovers/sitemap.xml
