@@ -15,7 +15,7 @@ Repository for the preprint:
 | ORCID | [0009-0007-9394-2601](https://orcid.org/0009-0007-9394-2601) |
 | Published | 27 August 2026 |
 | Version | v2 |
-| Status | Preprint — not peer-reviewed |
+| Status | Preprint - not peer-reviewed |
 | DOI | [10.5281/zenodo.22134885](https://doi.org/10.5281/zenodo.22134885) |
 | Concept DOI | [10.5281/zenodo.22132994](https://doi.org/10.5281/zenodo.22132994) (all versions) |
 
@@ -25,7 +25,7 @@ Repository for the preprint:
 
 ## Abstract
 
-Let $P=p_k^\#$ and $q=p_{k+1}$, so that $qP=p_{k+1}^\#$ is the next primorial. We study the pairwise crossover between these two candidates in the explicit Odlyzko–Rubinstein–Wolf (ORW) exponential-integral approximation
+Let $P=\prod_{j=1}^{k}p_j$ and $q=p_{k+1}$, so that $qP=\prod_{j=1}^{k+1}p_j$ is the next primorial. We study the pairwise crossover between these two candidates in the explicit Odlyzko–Rubinstein–Wolf (ORW) exponential-integral approximation
 
 $$
 \mathcal M(X,D)=\mathfrak S(D)I_D(X), \qquad
@@ -53,6 +53,20 @@ L_{\rm int}=L_0+1+\frac{3}{L_0}
 $$
 
 The corrections $1$ and $3/L_0$ are universal for general endpoint pairs with $D_1/L_0\to0$. The results are theorems about the stated ORW approximation; no unconditional claim about actual jumping champions is made.
+
+## Plain-language explanation
+
+Prime numbers do not occur at regular intervals. The difference between two consecutive primes is called a **prime gap**, and some gap sizes occur more frequently than others over a given range. The Odlyzko-Rubinstein-Wolf (ORW) approximation is a mathematical model that predicts how frequently each gap size should occur.
+
+The model suggests that the favored gap sizes move through **primorials** - numbers formed by multiplying consecutive primes. This paper studies the moment when the model changes its preference from one primorial, $P$, to the next one, $qP$.
+
+The leading approximation gives a first estimate, $L_0$, for this transition on the logarithmic scale $L=\log X$. The paper proves how to refine that estimate systematically to any fixed asymptotic order. Its first two corrections give the particularly simple prediction
+
+$$
+L_{\rm int}\approx L_0+1+\frac{3}{L_0}.
+$$
+
+The terms $1$ and $3/L_0$ are universal: they arise before the detailed arithmetic of the particular primorials begins to affect the expansion. The result is rigorous for the stated ORW approximation, but it is not an unconditional proof that actual prime gaps switch at exactly these locations.
 
 **Keywords:** jumping champions; prime gaps; primorials; generalized Laguerre polynomials; asymptotic inversion.
 
