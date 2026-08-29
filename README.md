@@ -21,7 +21,7 @@ Repository for the preprint:
 
 - [Read the PDF](paper/successive_primorial_transitions_JNT.pdf)
 - [View the Zenodo record](https://zenodo.org/records/22134885)
-- [View the scholarly metadata page](https://msaraya.github.io/orw-primorial-crossovers/paper/)
+- [View the scholarly metadata page](https://blog.msaraya.com/orw-primorial-crossovers/paper/)
 
 ## Abstract
 

@@ -7,4 +7,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://msaraya.github.io/orw-primorial-crossovers/sitemap.xml
+Sitemap: https://blog.msaraya.com/orw-primorial-crossovers/sitemap.xml
